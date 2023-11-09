@@ -4,6 +4,6 @@
 
 void main()
 {
-   printf("contact@srikanthtechnologies.com\n");
-   printf("9059057000");
+   printf("contact@srikanthtechnologies.com");
+   printf("\n9059057000");
 }
