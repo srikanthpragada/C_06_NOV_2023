@@ -11,7 +11,7 @@ void line(char ch, int len)
 
 void main()
 {
-     line('*',25);  // call function
+     line('*', 25);  // call function
      printf("\nSrikanth Technologies\n");
-     line('=',30);
+     line('=', 30);
 }
