@@ -6,6 +6,8 @@ struct time
   int h, m, s;
 };
 
+typedef struct time TIME;
+
 void print(struct time t)
 {
    printf("%02d:%02d:%02d\n", t.h, t.m, t.s);
